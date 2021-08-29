@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./" alt="Akhira Logo">
+  <img src="./https://telegra.ph/file/b5418f141bb50c650a1af.jpg" alt="Akhira Logo">
 </p>
 <h1 align="center">
   <b>Akhira - UserBot</b>
